@@ -1,0 +1,10 @@
+﻿{
+    "title": "Fødselsdage",
+    "phrase": {
+        "u_m": "{NAME} bliver {AGE} om {DAYS} dage",
+        "u_s": "{NAME} bliver {AGE} om {DAYS} dag",
+        "p_m": "{NAME} blev {AGE} for {DAYS} dage siden",
+        "p_s": "{NAME} blev {AGE} for {DAYS} dag siden",
+        "t": "{NAME} fylder {AGE} år i dag!"
+    }
+}
